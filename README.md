@@ -1,6 +1,6 @@
 # 🏢 FII Investment Simulator
 
-![Banner da Planilha](./capa.jpeg) <!-- Substitua este arquivo pelo banner da sua planilha -->
+![Banner da Planilha](./capa.png) <!-- Substitua este arquivo pelo banner da sua planilha -->
 
 Uma planilha desenvolvida em Excel para simular investimentos em Fundos Imobiliários (FIIs), com foco em facilitar a tomada de decisões por investidores de todos os níveis.
 
